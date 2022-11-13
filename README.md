@@ -6,10 +6,9 @@
 const lucifer25x = {
     name: 'Lucifer',
     programming_languages: ['JavaScript', 'Python'. 'Go', 'Nim'],
-    interests: ['Coding', 'Technology', 'Books', 'Music', 'Art', 'Math',
-                'Philosophy', 'Physics', 'Astronomy', 'Web Development',
-                'Movies', 'Anime', 'Psychology', 'Game Development', 'Code Editors'],
+    interests: ['Web Development','Game Development', 'Code Editors',
+                'Compilers', 'Operating Systems', 'Kernels'],
     location: 'Azerbaijan',
-    currentlyLearning: 'QT Gui Development'
+    currentlyLearning: 'GUI Development'
 }
 ```

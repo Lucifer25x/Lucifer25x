@@ -9,6 +9,6 @@ const lucifer25x = {
     interests: ['Web Development','Game Development', 'Code Editors',
                 'Compilers', 'Operating Systems', 'Kernels'],
     location: 'Azerbaijan',
-    currentlyLearning: 'GUI Development'
+    currentlyLearning: '-'
 }
 ```
